@@ -39,6 +39,77 @@
         y="12"
         width="229"
         height="289"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="4cbffe86-d89c-4901-80da-38a932739dab"
+        fillColor="#c6f9f7"
+        content="Беседа"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="48"
+          width="75"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="53b6ab28-c806-4c3e-b391-6219209260e2"
+        fillColor="#c6f9f7"
+        content="Наблюдение"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="96"
+          y="48"
+          width="109"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="72c1db5d-1424-479b-b3f2-44bae10b6eee"
+        fillColor="#c6f9f7"
+        content="Психоанализ клиента"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="96"
+          y="204"
+          width="109"
+          height="37"/>
+      <properties
+          key="Сроки"
+          value="Подбор сроков и частоты посещения"/>
+      <properties
+          key="Биография"
+          value="Изучение биографии, событий ключевых, детво, застрявание в какашках...."/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="75d438e7-d1e5-4be2-9eb8-2825d3b31dbe"
+        fillColor="#c6f9f7"
+        content="Интерпретация методик"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="96"
+          y="96"
+          width="109"
+          height="49"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="1d6922cc-be09-430d-b374-4c9d39f31956"
+        fillColor="#c6f9f7"
+        content="Подбор методик"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="96"
+          y="156"
+          width="109"
+          height="37"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -73,6 +144,81 @@
         y="12"
         width="229"
         height="577"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="93b472f6-56d3-4c6b-b47d-b96dc1bba2f9"
+        fillColor="#ffff95"
+        content="Психологическое здоровье клиента"
+        notes="Цель которую должен достич человек после посещения ( серии посещений) психоаналитика"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="48"
+          width="186"
+          height="37"/>
+      <properties/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="abce3c35-ddbf-42f9-8f12-3dbe93ea562d"
+        fillColor="#ffff95"
+        content="Пришел поплакалсч и ему стало легче"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="96"
+          width="186"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="0c6bda29-fe3d-47c0-a5fe-73a1cacff140"
+        fillColor="#ffff95"
+        content="Решение ситуационных проблем"
+        notes="Оценку получил со стороны о своих проблемах, психоаналитик должен увидеть ситуацию и внутри (где клиент) и сос тороны, то что не клиент не в состоянии пока видеть.&#xD;&#xA;Моделирование ситации в которой клиент сам начинает постигать суть и видеть варианты решения"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="144"
+          width="186"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="ecedc547-6678-49d3-9ccc-fd9be6e1a0b3"
+        fillColor="#ffff95"
+        content="Личное отношение к психоаналитику"
+        notes="комментарий "
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="192"
+          width="186"
+          height="37"/>
+      <properties
+          key="мысль первая"
+          value="все хорошо"/>
+      <properties
+          key="мысль вторая"
+          value="все плохо"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="54f83d02-dd9b-4b1b-85c0-2ac3be89beb3"
+        fillColor="#ffff95"
+        content="Наименее травматичный метод воздействия на психику человека"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="240"
+          width="186"
+          height="61"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -90,6 +236,45 @@
         y="12"
         width="229"
         height="289"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="f258e503-565c-4946-8667-00029de37ca6"
+        fillColor="#d5ff95"
+        content="Цена ниже рынка"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="108"
+          width="205"
+          height="25"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="114ab304-16b2-4139-9b61-3029721f7eb8"
+        fillColor="#d5ff95"
+        content="Удовольствие от формы консультирования"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="48"
+          width="205"
+          height="49"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="0513d782-2506-40a0-ad40-da2b58bdfa1f"
+        fillColor="#d5ff95"
+        content="Отзыв на сайте скидка следующего посещения"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="144"
+          width="205"
+          height="49"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -107,6 +292,59 @@
         y="300"
         width="229"
         height="289"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="b116fb21-2adf-4177-b285-760dbc6c1edc"
+        fillColor="#ffa093"
+        content="Удалёнка"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="36"
+          width="109"
+          height="37"/>
+      <properties
+          key="Скайп"/>
+      <properties
+          key="Ютубчик"/>
+      <properties
+          key="Инстанграмм"/>
+      <properties
+          key="Телеграмм"/>
+      <properties
+          key="ВК"/>
+      <properties
+          key="Фейсбук"/>
+      <properties
+          key=",,,"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="0d869748-9387-4737-83da-a770c537feb3"
+        fillColor="#ffa093"
+        content="Кабинет психоаналитика"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="84"
+          width="109"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="1b23081f-c058-4145-a998-1fe34e1d1cd7"
+        fillColor="#ffa093"
+        content="Мама и школа"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="156"
+          width="109"
+          height="37"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -124,6 +362,74 @@
         y="12"
         width="229"
         height="577"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="e11f285f-c112-4caa-9052-a2607801eb12"
+        fillColor="#eec8fb"
+        content="Родители"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="48"
+          width="85"
+          height="63"/>
+      <properties
+          key="Дети"
+          value="6-17 лет"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="e64a290e-59a7-49d1-b5a7-57b3b51cdce9"
+        fillColor="#eec8fb"
+        content="Женщины"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="192"
+          width="85"
+          height="63"/>
+      <properties
+          key="Возраст"
+          value="20-30 лет"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="e329ba73-b4cc-439e-b889-e9f6ad557b73"
+        fillColor="#eec8fb"
+        content="Мужчины"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="120"
+          width="85"
+          height="63"/>
+      <properties
+          key="Возраст"
+          value="не определен"/>
+      <properties/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="5897b819-5885-4a3f-a224-a0b8d0683d5c"
+        fillColor="#eec8fb"
+        content="Бизнесмены"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="264"
+          width="85"
+          height="63"/>
+      <properties
+          key="Отрасль"
+          value="Учителя"/>
+      <properties
+          key="Обеспеченность"
+          value="готовые зарлатить 1000 рублей за час работы"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
