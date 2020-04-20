@@ -447,6 +447,19 @@
         y="588"
         width="570"
         height="181"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="92c92961-c91e-44db-af85-0cdc8c6e3c54"
+        fillColor="#ffa093"
+        content="Доход -"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="56"
+          y="69"
+          width="75"
+          height="63"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -465,6 +478,19 @@
         y="588"
         width="572"
         height="181"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="4838dd3f-7b1e-4009-bcdc-f07ef1fb4883"
+        fillColor="#d5ff95"
+        content="Доход +"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="201"
+          y="67"
+          width="75"
+          height="63"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelSticky"
